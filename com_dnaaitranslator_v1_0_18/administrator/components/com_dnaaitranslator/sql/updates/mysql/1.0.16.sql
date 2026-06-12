@@ -1,0 +1,1 @@
+-- DNA AI Translator 1.0.17: backend flags and LIVE/manual save fix; no database schema changes.

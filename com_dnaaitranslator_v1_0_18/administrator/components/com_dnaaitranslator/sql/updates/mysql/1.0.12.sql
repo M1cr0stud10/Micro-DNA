@@ -1,0 +1,2 @@
+-- DNA AI Translator 1.0.12
+-- No database schema changes.

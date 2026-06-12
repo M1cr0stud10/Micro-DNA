@@ -1,0 +1,2 @@
+-- DNA AI Translator 1.0.15: compatibility fix.
+-- Do not query or write #__content.xreference; mappings stay in #__dnaaitranslator_map.

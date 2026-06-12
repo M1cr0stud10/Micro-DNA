@@ -1,0 +1,2 @@
+-- DNA AI Translator 1.0.17: internal status text now uses #__dnaaitranslator_map.notes.
+-- The installer script checks the existing schema safely and adds the notes column when missing.

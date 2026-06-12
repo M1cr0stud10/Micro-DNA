@@ -1,0 +1,1 @@
+-- DNA AI Translator 1.0.14: source selection settings only; no database schema changes.

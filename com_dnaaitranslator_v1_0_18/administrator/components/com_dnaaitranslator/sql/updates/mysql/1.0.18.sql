@@ -1,0 +1,1 @@
+-- DNA AI Translator 1.0.18: component params save/read fix and max_items setting; no database schema changes.

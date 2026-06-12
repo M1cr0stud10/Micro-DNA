@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+  "name": "com_dnaaitranslator",
+  "version": "1.0.18",
+  "description": "DNA AI Translator assets",
+  "license": "GPL-2.0-or-later",
+  "assets": [
+    {
+      "name": "com_dnaaitranslator.admin",
+      "type": "style",
+      "uri": "com_dnaaitranslator/admin.css"
+    }
+  ]
+}
